@@ -26,4 +26,3 @@ https://csslick.github.io/do_type/
   
 </body>
 ```
-![typing effect](https://webdevtrick.com/wp-content/uploads/javascript-typing-effect.jpg)
