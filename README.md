@@ -17,13 +17,10 @@ https://csslick.github.io/do_type/
   <p title="hello,* my name is kwon">type</p>
   
   <!-- Plug-in Here(플러그인) -->
-  <script src="./do_type.js"></script>
+  <script src="./do_type.min.js"></script>
   
   <!-- Your Script(작성 스크립트) -->
   <script>
-    // Initailize
-    do_type.init();
-    
     // run auto type
     do_type.type('element name');  
   </script>
