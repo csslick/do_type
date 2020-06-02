@@ -15,11 +15,8 @@ var do_type = {
       return;
     }
 
-    var duration = 150;
-
     el.innerText = ''
-    el_txt.replace(' ', '-');
-
+    var duration = 150;
     var text_count = 0;
     var type = setInterval(function(){
         if(text_count >= count - 1) { 
