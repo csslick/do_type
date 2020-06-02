@@ -1,9 +1,10 @@
 # do_type
 
 # 사용법
+- 특수문자 추가(*): 줄내림 
 ```
 <body>
-  <h1 class="do_type" title="Hello, my name is Erik Minimis.*I do creative">title</h1>
+  <h1 class="do_type" title="Hello, my name is Hong Gil Dong.*I do creative">title</h1>
   <p title="hello,* my name is kwon">type</p>
   
   <!-- 플러그인 -->
