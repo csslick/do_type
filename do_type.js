@@ -1,12 +1,5 @@
 var do_type = {
 
-  init: function() {
-    var do_type_el = document.querySelectorAll('.do_type');
-    for(var i = 0; i < do_type_el.length; i++){
-      do_type_el[i].style = 'border-right: 2px solid #333;padding-right: 4px;'
-    }
-  },
-
   replay: function(_el){
     var el = document.querySelector(_el)
     setTimeout(function(){ el.innerHTML = ''; do_type.type(_el);}, 3000);
@@ -43,6 +36,3 @@ var do_type = {
       }, duration)
   }  
 }
-
-
-do_type.init();
