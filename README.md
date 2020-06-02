@@ -1,7 +1,11 @@
-# do_type
+# do_type plug-in
+2020.06.02 By csslick
+https://cafe.naver.com/csslick
 
-# 사용법
-- 특수문자 추가(*): 줄내림 
+## 사용법
+- 요소 내의 title 속성에 텍스트 값을 입력
+- 중간에 특수문자(*)를 추가하면 줄내림 처리됨
+
 ```
 <body>
   <h1 class="do_type" title="Hello, my name is Hong Gil Dong.*I do creative">title</h1>
