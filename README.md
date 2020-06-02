@@ -5,6 +5,7 @@
 https://csslick.github.io/do_type/
 
 ## 사용법
+- 적용할 요소에 클래스명 do_type을 추가
 - 요소 내의 title 속성에 텍스트 값을 입력
 - 중간에 특수문자(*)를 추가하면 줄내림 처리됨
 
