@@ -1,5 +1,5 @@
 # do_type plug-in 
-- version: 0.1
+- Version: 0.1
 - 2020.06.02 By csslick
 
 ## Demo Page  
