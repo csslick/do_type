@@ -14,7 +14,6 @@ https://csslick.github.io/do_type/
 <body>
 
   <h1 class="do_type" title="Hello, my name is Hong Gil Dong.*I do creative">title</h1>
-  <p title="hello,* my name is kwon">type</p>
   
   <!-- Plug-in Here(플러그인) -->
   <script src="./do_type.min.js"></script>
