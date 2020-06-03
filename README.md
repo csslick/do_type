@@ -1,6 +1,6 @@
 # do_type plug-in 
 - Version: 0.2
-- 2020.06.02 By csslick(https://cafe.naver.com/csslick)
+- 2020.06.02 By csslick(https://cafe.naver.com/csslick/5912)
 
 ## Demo Page  
 https://csslick.github.io/do_type/
