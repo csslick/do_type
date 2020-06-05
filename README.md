@@ -25,5 +25,5 @@ https://csslick.github.io/do_type/
   
 </body>
 ```
-
-<small>2020.06.02 By csslick(https://cafe.naver.com/csslick/5912)</small>
+---
+2020.06.02 By csslick(https://cafe.naver.com/csslick/5912)
