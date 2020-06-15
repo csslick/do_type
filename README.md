@@ -1,3 +1,4 @@
+![do_type.png](./do_type.png)
 # do_type plug-in 
 - Version: 0.2
 
